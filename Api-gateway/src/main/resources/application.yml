@@ -1,0 +1,33 @@
+#security:
+ #oauth2:
+  #client:
+   #provider:
+    #keycloak:
+     #issuer-uri: http://localhost:8180/auth/realms/USER-SERVICES
+     #jwk-set-uri: http://localhost:8180/auth/realms/USER-SERVICES/protocol/openid-connect/certs
+      
+      
+      
+   # registration:
+    #     AIG:
+     #     provider: keycloak
+      #    client-id: user-service 
+       #   client-secret: JqvsT8lSJv10B1npMTgMOnBSpx0ekzK7
+        #  authorization-grant-type: authorization_code
+         # redirect-uri: http://localhost:8080/login/oauth2/code/keycloak
+          #client-authentication-method: basic
+          #scope: openid
+   # resourceserver:
+    #         jwt:
+     #         issuer-uri: http://localhost:8180/auth/realms/USER-SERVICES
+      #        jwk-set-uri: http://localhost:8180/auth/realms/USER-SERVICES/protocol/openid-connect/certs
+              
+              
+              
+  #logging:
+   #level:
+    #org:
+     #springframework:
+      #security:
+       #web: DEBUG
+
