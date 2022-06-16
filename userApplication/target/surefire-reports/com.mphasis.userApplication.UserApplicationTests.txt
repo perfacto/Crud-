@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.mphasis.userApplication.UserApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.697 s - in com.mphasis.userApplication.UserApplicationTests

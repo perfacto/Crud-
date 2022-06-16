@@ -1,0 +1,11 @@
+com\mphasis\userApplication\configuration\RestTemplateConfiguration.class
+com\mphasis\userApplication\model\User.class
+com\mphasis\userApplication\UserApplication.class
+com\mphasis\userApplication\model\Department.class
+com\mphasis\userApplication\service\UserServicesImpl.class
+com\mphasis\userApplication\service\UserService.class
+com\mphasis\userApplication\controller\UserController.class
+com\mphasis\userApplication\model\ResponseTemplateVO.class
+com\mphasis\security\RealmRoleConverter.class
+com\mphasis\userApplication\dAO\UserRepository.class
+com\mphasis\security\SecurityConfiguration.class
